@@ -1,14 +1,14 @@
 {
   "Ethereum": {
-    "last_block": 26507864,
+    "last_block": 26508122,
     "sent": []
   },
   "BNB Chain": {
-    "last_block": 136075579,
+    "last_block": 136082441,
     "sent": []
   },
   "HyperEVM": {
-    "last_block": 52378459,
+    "last_block": 52378959,
     "sent": []
   }
 }

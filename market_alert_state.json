@@ -9,6 +9,11 @@
       "timestamp": 1795768854.0,
       "price": 0.03849812,
       "volume": 4152972.0
+    },
+    {
+      "timestamp": 1795772808.0,
+      "price": 0.03828227,
+      "volume": 4095242.0
     }
   ],
   "last_alerts": {},
